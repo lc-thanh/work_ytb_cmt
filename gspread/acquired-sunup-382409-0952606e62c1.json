@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "acquired-sunup-382409",
+  "private_key_id": "0952606e62c162431e370dd4eb450e9aaed78ea7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAYTZVpSsf0rkH\nUT2UMU1bejbgjlIVB00MYEIvrS1dvYbPoDsLHFzEpKc4TDtVQ0kj/2A7tLb1aKzR\nqZ6AoUrPvy5l9D4Ezb1cAOVmuqrqt9Q2tfWXmmsFzL4xS2Uvzbo+IkDx4ow8ryul\nO6ocbFPiH9wdMln330KO/dnkU+lhoEaIq5kaL6vBz6VRh8p1Ck+EJNOY6RXv5DHk\n4Hd1KUANZIfecDIFfuhHttU3raFouFWy1gI7/r8azzcFKiPh4MBkDZPPcyw9HzSh\nSP5tHuYSyuy14xJOp4CNYPnWfeJSMyOV3xpj/PCCf/rl+6LeJO1XLV76+bRinFQC\n4E2tcImnAgMBAAECggEAD4kqNqNmhqThTV55rxiGKz+E5ACKT2luBvRVE/2TvtC5\n7NV/Pyf0s+qqGGlLl1ieNPqAHoI7Djl8T1g31SJxZLKHQDOHuKKWyrHF1NR5Tgg3\nao2qPip5vxeoOlng24ntIuxoO0B028e3qhnV5IK5CXdSMsdorZRJjzuf14kRPVFs\n156H54kzJOA0uEIa8Qzg2eA/EHLWBkfMC+0UGqiiNgGrzITx55FuWcI6PHapEZoe\nvEwO7HAt3ppfH/vBj5ANXG13bNYrTAd3ynIbI7sbqR19QCw8TvAF2luSEuD7RtT0\nb2rN96pmnnpi9nbJ/65yMEubImElUPqyO7B18l3xSQKBgQDhkmPlhgffTwytoEPd\nYueXA/kGwy9X16oR8TyhCKt5CQiqHhA/393SrvzIjS5l8Lk1xfFBgTcSk9i/+Beo\nVjdLVLTrFfVy2jIwgBGbooVIok5WJ26JDM1d/o1weckvKNhpo4S3uvNeiz6D3yrh\nyTH4/lfcE9Y1iKdVK94mVihlnwKBgQDaVJu+aROeluz4+dp+RWSIh3hlv411+AVi\npMQfkowZ8PGhU+R7+kXvNJ7dl6lo4DOKtPaXQJE+D1TM5CgaHL5IzVRDtnBwpuv1\n7+6VnMHXFgbiqMsk55O3yULpnx2biqoQoe0AX4uHCj2lhIq9bmmjK38sdz6Y/VCr\n0Vb26AkO+QKBgDEnXj9gwoxlxGR9XOx8Je0hf316wPFKXJQGVmjc48i/MDUp0e6p\nUMQdP5ZQNYEfQKy4EodsqdyRfRTv8e/LwcbXkYj8wvyhEXjCH5QjiRm3zIw3kX2p\n3YKS+q08zJtLMkVqzXvf8DJ08013Lvf+iLYybmDVrcMCoTwNEB6YfbsPAoGATeo7\n2mvtUH9T+lZQHxfslLyjvsvpU9w7L8TVKN9HmEpgMM6bj5L1OjRxLWteTcsVGb8S\n8U9dheQ6wxP5K7huP9Tm6XNGFS28r3v8jO/wTS3TLzhFptnt4Xy1oGHkUwndPypK\nRgPS61JARb1TNd8dW9m9/MRhVn+wNmDyxBJyiSECgYAQmssWQaL5Ayf/b4uTuOwz\niPAwCSj+EXYcm5ztSMs0HMvRwYOkdxt2+mu012df5mUAJ2G0wqZaoPFADTzK4NdH\nF2qq5l5qHuPMjCYoavprA4B+E6kE3BQqTKVRtFZggWFhxw+9AnMf5nMgkMTvTi8q\nyJBQOi8OXAosSx1RKIQJ+Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gspreadaccount@acquired-sunup-382409.iam.gserviceaccount.com",
+  "client_id": "113526763524305409166",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gspreadaccount%40acquired-sunup-382409.iam.gserviceaccount.com"
+}
